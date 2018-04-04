@@ -1,0 +1,14 @@
+{
+  "name": "convert-gps",
+  "version": "0.0.0",
+  "description": "ConvertGPS",
+  "main": "app.js",
+  "author": {
+    "name": "VayneTian"
+  },
+  "dependencies": {
+    "gcoord": "0.1.0-alpha",
+    "node-xlsx": "^0.12.0",
+    "read_xlsx": "0.0.4"
+  }
+}

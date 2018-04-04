@@ -1,0 +1,3 @@
+C:\Users\VayneTian\source\repos\ConvertGPS\ConvertGPS\obj\Debug\ConvertGPS.njsprojResolveAssemblyReference.cache
+C:\Users\VayneTian\source\repos\ConvertGPS\ConvertGPS\obj\Debug\ConvertGPS.njsproj.CoreCompileInputs.cache
+C:\Users\VayneTian\source\repos\ConvertGPS\ConvertGPS\bin\Microsoft.NodejsTools.WebRole.dll
